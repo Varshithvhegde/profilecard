@@ -73,6 +73,3 @@ Clone the repository using below command
   - Inspiration
   - etc
 
-
-> [Click Here](https://varshithvhegde.me/profilecard/) for live action of website  
-> Added Custom Domain [https://varshithvhegde.live/](https://varshithvhegde.live/)
