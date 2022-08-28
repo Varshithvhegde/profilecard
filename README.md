@@ -50,14 +50,14 @@ Clone the repository using below command
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
+- Fork the repository
+- Clone the repository
+- Create a new branch
+- Commit your changes
+- Push the changes to your repository
+- Create a pull request
+- Wait for the pull request to be merged
 
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
