@@ -1,7 +1,6 @@
 <!--Glassmorphic Profile Card Readme.md-->
 ## My Pofile Card
 
-It is a 
 
 
 
