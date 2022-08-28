@@ -61,12 +61,7 @@ Clone the repository using below command
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+- **Varshith V Hegde** - [Varshithvhegde](https://github.com/Varshithvhegde) 
 
 ## License
 
