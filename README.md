@@ -8,55 +8,45 @@ This is a simple profile card that I made using HTML and CSS.
 - Open the index.html file in your browser
 - Edit the index.html file to change the profile card
 - Edit the style.css file to change the styling of the profile card
+- Edit the README.md file to change the content of this page
 
 ### Prerequisites
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+- A text editor(eg. VS Code)
+- A browser(eg. Google Chrome)
+- Git
+- GitHub
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development
-environment running
+Clone the repository using below command
 
-Say what the step will be
+    git clone https://github.com/Varshithvhegde/profilecard.git
 
-    Give the example
 
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+- Use live server extension in VS Code to run the index.html file
 
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
 
 ## Deployment
 
-Add additional notes to deploy this on a live system
+- Deploy the project on GitHub pages
+- [varshithvhegde.github.io/profilecard](https://varshithvhegde.github.io/profilecard/)
+- [varshithvhegde.live](https://varshithvhegde.live)
 
 ## Built With
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+- HTML
+- CSS
+- SASS
+- JavaScript
+- Vanilla JS
+- VS Code
+- Git
+- GitHub
+- GitHub Pages
 
 ## Contributing
 
